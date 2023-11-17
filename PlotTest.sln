@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PlotTest", "PlotTest\PlotTest.csproj", "{FE06CD16-24C7-448E-BCF1-748351AEBB91}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE06CD16-24C7-448E-BCF1-748351AEBB91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE06CD16-24C7-448E-BCF1-748351AEBB91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE06CD16-24C7-448E-BCF1-748351AEBB91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE06CD16-24C7-448E-BCF1-748351AEBB91}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {03A3116D-4CB2-4D44-8F41-FF8888B03ABF}
+	EndGlobalSection
+EndGlobal
